@@ -1,3 +1,3 @@
 # apnacollege
-apnacollege- for better understanding 
+apnacollege- for better understanding.
 commiting changes in it
